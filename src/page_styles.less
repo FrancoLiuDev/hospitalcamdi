@@ -1,0 +1,32 @@
+
+@black_transparent:rgba(0, 0, 0, 0.8);
+
+.main-container {
+    display: -webkit-flex;
+	display: flex;
+	flex-direction: column;
+	height: 100%;
+	width: 100%;
+	float: center;
+    text-align: center;
+	background-color: @c10_text_button_popup;
+	margin: 0px;
+}
+
+.base-input-field {
+    border: 1 none;
+    border: 1px solid @c8_can_not_click;
+    background-color: white;
+    -webkit-border-radius: 5px;
+	border-radius: 5px; 
+}
+
+.base-input-field-fc {
+	border: 1px solid;
+	outline: none;
+	border: 1px solid @c1_main_color;
+}
+	
+.base-input-field-hold {
+	&:extend(.t002_Login_enter_empty);
+}

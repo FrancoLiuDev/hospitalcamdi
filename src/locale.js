@@ -1,0 +1,52 @@
+module.exports = {
+    en: {
+        APP_TITLE: '中国医疗器械行业协会',
+        USER_LOGIN: 'Sign in',
+        PLS_INP_ACCOUNT: 'Please input account',
+        PLS_INP_PWD: 'Please input password',
+        PRODUCT_CATALOG: 'Catalog',
+        CAMDI_TITLE: 'CAMDI',
+        LOGIN_SUCCESS: 'Signed',
+        LOGIN_FAILD: 'Sign faild,please signin again.',
+        PLS_INPUT_CORRECT_LOGIN_INFO: 'please correct your user info.',
+        STRING_LOGOUT: 'Sign out',
+        STRING_LOGIN: 'Sign in',
+    },
+    ch: {
+        APP_TITLE: '中国医疗器械行业协会',
+        USER_LOGIN: '用户登录',
+        PLS_INP_ACCOUNT: '请输入电子邮箱',
+        PLS_INP_PWD: '请输入密码',
+        PRODUCT_CATALOG: '产品分类',
+        CAMDI_TITLE: '中国医疗器械行业协会',
+        LOGIN_SUCCESS: '登录成功',
+        LOGIN_FAILD: '登录失败,请重新登入',
+        PLS_INPUT_CORRECT_LOGIN_INFO: '请输入正确邮箱及密码',
+        STRING_LOGOUT: '退出',
+        STRING_LOGIN: '登入',
+        GOOD_CATALOG: '产品类别',
+        GOOD_NAME: '产品名称',
+        GOOD_DESCRIPTION: '产品简述',
+        GOOD_PRODUCE_FIRM: '生产企业',
+        GOOD_CONTACT: '联络人',
+        GOOD_CT_PHONE: '联系电话',
+        GOOD_CT_MAIL: '电子邮件',
+        GOOD_CT_ADDR: '单位地址',
+        PHOTO_UPLOAD: '上传图片',
+        GOOD_DEPARTMENT: '科别',
+        GOOD_FUNC_TYPE: '功能类别',
+        GOOD_DETAIL_DESC: '详细说明',
+        MODEL_NAME: '模型名称',
+        MODEL_ID: '模型标识',
+        PUSH_SUBMIT: '提交',
+        PLS_SELECT: '请选择',
+        PLS_INPUT: '请输入',
+        PUSH_FAILD: '上传失败',
+        PUSH_OK: '上传成功',
+    },
+    id: {
+        message: {
+            welcome: 'Selamat datang'
+        }
+    }
+}
